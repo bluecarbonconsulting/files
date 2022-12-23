@@ -1,0 +1,74 @@
+
+
+HP - Desktop Skyscraper - Dynamic - 160x600 | 300x600
+
+<!-- HP - Desktop Skyscraper - Dynamic - 160x600 | 300x600 [javascript] -->
+<script type="text/javascript">
+var rnd = window.rnd || Math.floor(Math.random()*10e6);
+var pid592791 = window.pid592791 || rnd;
+var plc592791 = window.plc592791 || 0;
+var abkw = window.abkw || '';
+var absrc = 'https://servedbyadbutler.com/adserve/;ID=184887;size=0x0;setID=592791;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid592791+';place='+(plc592791++)+';rnd='+rnd+';click=CLICK_MACRO_PLACEHOLDER';
+document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+</script>
+
+HP - Medium Rectangle - Dynamic - 300x250
+
+<!-- HP - Medium Rectangle - Dynamic - 300x250 [javascript] -->
+<script type="text/javascript">
+var rnd = window.rnd || Math.floor(Math.random()*10e6);
+var pid592792 = window.pid592792 || rnd;
+var plc592792 = window.plc592792 || 0;
+var abkw = window.abkw || '';
+var absrc = 'https://servedbyadbutler.com/adserve/;ID=184887;size=0x0;setID=592792;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid592792+';place='+(plc592792++)+';rnd='+rnd+';click=CLICK_MACRO_PLACEHOLDER';
+document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+</script>
+
+SRP - Desktop Leaderboard 728x90
+
+<!-- SRP - Desktop Leaderboard 728x90 [javascript] -->
+<script type="text/javascript">
+var rnd = window.rnd || Math.floor(Math.random()*10e6);
+var pid592796 = window.pid592796 || rnd;
+var plc592796 = window.plc592796 || 0;
+var abkw = window.abkw || '';
+var absrc = 'https://servedbyadbutler.com/adserve/;ID=184887;size=0x0;setID=592796;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid592796+';place='+(plc592796++)+';rnd='+rnd+';click=CLICK_MACRO_PLACEHOLDER';
+document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+</script>
+
+SRP - Desktop Medium Banner 468x60
+
+<!-- SRP - Desktop Medium Banner 468x60 [javascript] -->
+<script type="text/javascript">
+var rnd = window.rnd || Math.floor(Math.random()*10e6);
+var pid592797 = window.pid592797 || rnd;
+var plc592797 = window.plc592797 || 0;
+var abkw = window.abkw || '';
+var absrc = 'https://servedbyadbutler.com/adserve/;ID=184887;size=0x0;setID=592797;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid592797+';place='+(plc592797++)+';rnd='+rnd+';click=CLICK_MACRO_PLACEHOLDER';
+document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+</script>
+
+SRP  - Small Rectangle - Dynamic - 320x50
+
+<!-- SRP  - Small Rectangle - Dynamic - 320x50 [javascript] -->
+<script type="text/javascript">
+var rnd = window.rnd || Math.floor(Math.random()*10e6);
+var pid592795 = window.pid592795 || rnd;
+var plc592795 = window.plc592795 || 0;
+var abkw = window.abkw || '';
+var absrc = 'https://servedbyadbutler.com/adserve/;ID=184887;size=0x0;setID=592795;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid592795+';place='+(plc592795++)+';rnd='+rnd+';click=CLICK_MACRO_PLACEHOLDER';
+document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+</script>
+
+FDP - Medium Rectangle - Dynamic - 300x250
+
+<!-- FDP - Medium Rectangle - Dynamic - 300x250 [javascript] -->
+<script type="text/javascript">
+var rnd = window.rnd || Math.floor(Math.random()*10e6);
+var pid592794 = window.pid592794 || rnd;
+var plc592794 = window.plc592794 || 0;
+var abkw = window.abkw || '';
+var absrc = 'https://servedbyadbutler.com/adserve/;ID=184887;size=0x0;setID=592794;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid592794+';place='+(plc592794++)+';rnd='+rnd+';click=CLICK_MACRO_PLACEHOLDER';
+document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+</script>
+
