@@ -1,0 +1,16 @@
+Homepage
+
+Head
+<script>!function(n){if(!window.cnx){window.cnx={},window.cnx.cmd=[];var t=n.createElement('iframe');t.src='javascript:false'; t.display='none',t.onload=function(){var n=t.contentWindow.document,c=n.createElement('script');c.src='//cd.connatix.com/connatix.player.js?cid=4949a2af-7493-4c6c-a83a-9fc7be9558fd',c.setAttribute('bodyasync','1'),c.setAttribute('type','text/javascript'),n.body.appendChild(c)},n.head.appendChild(t)}}(document);</script>
+ 
+Body:
+<script id="29c9c16e77dd44beb4cf6c5cb55eebfe">(new Image()).src = 'https://capi.connatix.com/tr/si?token=d7d77a62-7459-482f-abc4-573cfc78d5bd&cid=4949a2af-7493-4c6c-a83a-9fc7be9558fd';  cnx.cmd.push(function() {    cnx({      playerId: "d7d77a62-7459-482f-abc4-573cfc78d5bd"    }).render("29c9c16e77dd44beb4cf6c5cb55eebfe");  });</script>
+ 
+Article page
+ 
+head
+<script>!function(n){if(!window.cnx){window.cnx={},window.cnx.cmd=[];var t=n.createElement('iframe');t.src='javascript:false'; t.display='none',t.onload=function(){var n=t.contentWindow.document,c=n.createElement('script');c.src='//cd.connatix.com/connatix.player.js?cid=4949a2af-7493-4c6c-a83a-9fc7be9558fd',c.setAttribute('async','1'),c.setAttribute('type','text/javascript'),n.body.appendChild(c)},n.head.appendChild(t)}}(document);</script>
+ 
+body
+<script id="d1e5ccce1acd475ba7bb93ba8304d325">(new Image()).src = 'https://capi.connatix.com/tr/si?token=1fb33654-6e2b-4d90-8b54-0863a924dedf&cid=4949a2af-7493-4c6c-a83a-9fc7be9558fd';  cnx.cmd.push(function() {    cnx({      playerId: "1fb33654-6e2b-4d90-8b54-0863a924dedf"    }).render("d1e5ccce1acd475ba7bb93ba8304d325");  });</script>
+ 
